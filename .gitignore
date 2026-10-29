@@ -28,3 +28,14 @@ mlflow-data/
 /ops-private/
 
 *.db-*
+
+# Editor and AI-tool generated files (not part of the project)
+.jetro/
+.mcp.json
+.cursor/
+.agents/
+.vscode/
+.windsurfrules
+AGENT.md
+CLAUDE.md
+.github/copilot-instructions.md
